@@ -1,2 +1,3 @@
 # statatableconverter_Nunki30Jun
 I have tiredness of converting Stata scattered data into Excel and Word table. So...
+<img width="690" height="608" alt="image" src="https://github.com/user-attachments/assets/5ec016dd-6885-4a2c-a946-aad8cc0ab217" />
