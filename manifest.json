@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Stata Table Converter",
+  "version": "1.0",
+  "description": "Convert Stata-style fixed-width summary tables (sum, tab, etc.) into real rows/columns you can copy into Excel.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icons/icon128.png"
+  },
+  "icons": {
+    "128": "icons/icon128.png"
+  },
+  "permissions": ["clipboardWrite"]
+}
